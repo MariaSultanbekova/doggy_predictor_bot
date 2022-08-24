@@ -6,5 +6,5 @@ In this folder there is a code for training the model with subsequent downloadin
 
 Code:
 
-- Train https://github.com/MariaSultanbekova/computer_vision_projects/blob/main/telegram_bot_with_AI/dogs_classification_train.ipynb
-- Production https://github.com/MariaSultanbekova/computer_vision_projects/blob/main/telegram_bot_with_AI/main.py
+- Train https://github.com/MariaSultanbekova/telegram_bot_with_AI/blob/main/dogs_classification_train.ipynb
+- Production https://github.com/MariaSultanbekova/telegram_bot_with_AI/blob/main/main.py
